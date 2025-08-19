@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+ nav a { border-bottom: 4px solid black;
+ text-decoration: none;
+ color:black;
+ margin: 30px;
+ }
+ nav
+ {
+ text-align:center;
+
+}
+h1 {
+    text-align: center;
+}
+p img { margin: 20px;
+border-left: 10px dotted;
+
+}
+.pic{ text-align: center;
+
+
+}
+.text{
+    border:2px solid;
+    border-radius: 
+    15px;
+    padding: 5px;
+    margin: 10px;
+}
+footer{
+    background-color: black;
+padding: 5px;
+}
+footer p{
+    background-color: white;
+    padding: 3px;
+    margin: 6px;
+}
+
+
+
